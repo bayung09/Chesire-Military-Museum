@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|c:\\users\\hp\\source\\repos\\cheshire military\\cheshire military\\cheshire.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\cheshire.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\volunteer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\volunteer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\friends.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\friends.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\school.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\school.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\museum.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\museum.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\regiments.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\regiments.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\cheshire.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\cheshire.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|C:\\Users\\Hp\\source\\repos\\Cheshire Military\\cheshire military\\cheshire.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5A34CD7-4D61-4271-955C-ADDFA47D0A66}|Cheshire Military\\Cheshire Military.csproj|solutionrelative:cheshire military\\cheshire.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "volunteer.aspx",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\volunteer.aspx",
+              "RelativeDocumentMoniker": "Cheshire Military\\volunteer.aspx",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\volunteer.aspx",
+              "RelativeToolTip": "Cheshire Military\\volunteer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-18T11:03:35.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "regiments.aspx",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\regiments.aspx",
+              "RelativeDocumentMoniker": "Cheshire Military\\regiments.aspx",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\regiments.aspx",
+              "RelativeToolTip": "Cheshire Military\\regiments.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-18T14:42:07.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cheshire.Master",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\cheshire.Master",
+              "RelativeDocumentMoniker": "Cheshire Military\\cheshire.Master",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\cheshire.Master",
+              "RelativeToolTip": "Cheshire Military\\cheshire.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-17T09:09:11.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\style.css",
+              "RelativeDocumentMoniker": "Cheshire Military\\style.css",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\style.css",
+              "RelativeToolTip": "Cheshire Military\\style.css",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAmwHwBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-17T14:06:35.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\Web.config",
+              "RelativeDocumentMoniker": "Cheshire Military\\Web.config",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\Web.config",
+              "RelativeToolTip": "Cheshire Military\\Web.config",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-19T16:38:01.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.js",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\home.js",
+              "RelativeDocumentMoniker": "Cheshire Military\\home.js",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\home.js",
+              "RelativeToolTip": "Cheshire Military\\home.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-20T18:18:44.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "friends.aspx",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\friends.aspx",
+              "RelativeDocumentMoniker": "Cheshire Military\\friends.aspx",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\friends.aspx",
+              "RelativeToolTip": "Cheshire Military\\friends.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-18T11:05:14.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\contact.aspx",
+              "RelativeDocumentMoniker": "Cheshire Military\\contact.aspx",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\contact.aspx",
+              "RelativeToolTip": "Cheshire Military\\contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-18T11:15:48.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "school.aspx",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\school.aspx",
+              "RelativeDocumentMoniker": "Cheshire Military\\school.aspx",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\school.aspx",
+              "RelativeToolTip": "Cheshire Military\\school.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-18T11:02:31.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "museum.aspx",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\museum.aspx",
+              "RelativeDocumentMoniker": "Cheshire Military\\museum.aspx",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\museum.aspx",
+              "RelativeToolTip": "Cheshire Military\\museum.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-18T11:15:31.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "about.aspx",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\about.aspx",
+              "RelativeDocumentMoniker": "Cheshire Military\\about.aspx",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\about.aspx",
+              "RelativeToolTip": "Cheshire Military\\about.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-18T10:59:07.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\home.aspx",
+              "RelativeDocumentMoniker": "Cheshire Military\\home.aspx",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\home.aspx",
+              "RelativeToolTip": "Cheshire Military\\home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-17T09:18:56.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cheshire.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\cheshire.Master.cs",
+              "RelativeDocumentMoniker": "Cheshire Military\\cheshire.Master.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\cheshire.Master.cs",
+              "RelativeToolTip": "Cheshire Military\\cheshire.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:42:41.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cheshire.Master.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\cheshire.Master.cs",
+              "RelativeDocumentMoniker": "Cheshire Military\\cheshire.Master.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Cheshire Military\\Cheshire Military\\cheshire.Master.cs [Design]",
+              "RelativeToolTip": "Cheshire Military\\cheshire.Master.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:51:40.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
